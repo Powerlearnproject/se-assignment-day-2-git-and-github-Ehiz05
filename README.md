@@ -62,7 +62,7 @@ If you use a traditional repository to house multiple projects it will grow and 
 Best practices: Manage multiple versions - Implement branches, forks or tagging to maintain multiple versions of a product. This is useful when you need to have multiple streams of development progressing in parallel and not interfering with each other
 Coordinate teamwork - It prevents chaos when working in a development team. It enables collaborative work. Manually sharing and merging code is time-consuming and error-prone.
 
-Strategies: Set measurable goals, define team member roles, model the organisational behavior.
+Strategies: Set measurable goals, define team member roles, model the organisational behavior. 
 
 
 
